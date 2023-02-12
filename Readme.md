@@ -65,8 +65,7 @@
 - [Cairo: una arquitectura de CPU Turing-completa y compatible con STARK](https://eprint.iacr.org/2021/1063.pdf) -
   Cairo Whitepaper
 - [Una representación algebraica verificada de la ejecución del programa de Cairo](https://arxiv.org/abs/2109.14534) -
-  Demostrar la solidez de Cairo utilizando.
-  [Aprender a ser asistente de pruebas](<https://en.wikipedia.org/wiki/Lean_(proof_assistant)>)
+  Pruebe la solidez de Cairo utilizando [el asistente de prueba Lean](<https://en.wikipedia.org/wiki/Lean_(proof_assistant)>)
 - [Cairo Playground](https://www.cairo-lang.org/playground/) - Cairo en el navegador
   IDE, ejemplos y rompecabezas.
 - [Taller de votación StarkNet](https://starkware.notion.site/starkware/StarkNet-Voting-Workshop-b61ef5f4a62d45af86892cba3158f7e6)-
@@ -82,25 +81,25 @@
 - [Full-Stack StarkNet](https://github.com/sambarnes/fullstack-starknet) - Tutoriales que introducen un poco de todo en una DApp.
 - [Tutoriales interactivos para el desarrollo de StarkNet](https://github.com/onlydustxyz/starklings) - Tutoriales interactivos que enseñan todos los conceptos de Cairo, desde el nivel principiante hasta el avanzado.
 - [Pruebas Testing en StarkNet](https://perama-v.github.io/cairo/examples/unit_test/) -
-  Usando [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts
-- [Gestión de las implantaciones de StarkNet mediante Nile⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
-- [starknet-cairo-101](https://github.com/starknet-edu/starknet-cairo-101) - ITaller interactivo de Cairo utilizando [Voyager](https://voyager.online/) con rompecabezas y fichas como premios.
-- [starknet-erc20](https://github.com/starknet-edu/starknet-erc20) - Infórmese sobre el estándar ERC20 y sobre cómo implantar su propio token, y acumule puntos
-- [starknet-erc721](https://github.com/starknet-edu/starknet-erc721) - Conozca el estándar ERC721 y cómo implantar su propio NFT.
+  Usando [`pytest`](https://docs.pytest.org/en/6.2.x/) para probar contratos.
+- [Gestión de las implementaciones de StarkNet usando Nile⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
+- [starknet-cairo-101](https://github.com/starknet-edu/starknet-cairo-101) - Taller interactivo de Cairo utilizando [Voyager](https://voyager.online/) con rompecabezas y fichas como premios.
+- [starknet-erc20](https://github.com/starknet-edu/starknet-erc20) - Infórmese sobre el estándar ERC20 y sobre cómo deployar su propio token, y acumule puntos.
+- [starknet-erc721](https://github.com/starknet-edu/starknet-erc721) - Conozca el estándar ERC721 y cómo deployar su propio NFT.
 - [starknet-messaging-bridge](https://github.com/starknet-edu/starknet-messaging-bridge) - Aprende a construir tu propio puente entre Ethereum y StarkNet.
-- [starknet-accounts](https://github.com/starknet-edu/starknet-accounts) - Descubra las maravillas de la abstracción contable y cree su propia wallet inteligente.
+- [starknet-accounts](https://github.com/starknet-edu/starknet-accounts) - Descubra las maravillas de la abstracción de cuentas y cree su propia wallet inteligente.
 - [Debugging](https://github.com/starknet-edu/starknet-debug) - Depurar contratos de manera eficaz.
 
 #### Artículos
 
 - [Apostando fuerte - starknet](https://koopxyz.notion.site/going-all-in-starkware-f250983d562c454384384a5408bddf9c)
-  Notion de sitio de recursos útiles-
+  Notion de recursos útiles-
 - [Perama's Blog](https://perama-v.github.io/cairo/intro/) - Amplio conjunto de
   recursos educativos StarkNet /  Cairo
 - [Lecciones prácticas de StarkNet](https://hackmd.io/@RoboTeddy/BJZFu56wF) -
   Consejos útiles para los nuevos programadores de StarkNet/Cairo.
 - [Biblioteca Común de Cairo](https://perama-v.github.io/cairo/cairo-common-library/) -
-  Documentación sobre la biblioteca común de El Cairo (equivalente a stdlib).
+  Documentación sobre la biblioteca común de Cairo (equivalente a stdlib).
 - [Resumen de los conceptos de Cairo](https://perama-v.github.io/cairo/description/) -
   Visión general de alto nivel de los conceptos encontrados en el ecosistema de  Cairo (Ethereum,
   Contratos Inteligentes, Descentralización, Escalado, L2, Rollups, ZKPs etc.)
@@ -145,7 +144,7 @@
   Método de pedido en StarkNet
 - [stardrop](https://github.com/kobigurk/stardrop) - Recompensas anónimas
 - [tictactoe](https://github.com/guiltygyoza/tictactoe-on-starknet) - RL Agente
-  jugando al tres en raya
+  jugando al Tic-Tac-Toe
 - [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) -
   Red neuronal profunda PoC
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
@@ -155,7 +154,7 @@
 
 #### Plantillas
 
-- [Contracts Wizard for Cairo](https://wizard.openzeppelin.com/cairo) - Generador interactivo de contratos inteligentes basado en OpenZeppelin Contracts for Cairo. 
+- [Contracts Wizard for Cairo](https://wizard.openzeppelin.com/cairo) - Generador interactivo de contratos inteligentes basado en OpenZeppelin Contracts para Cairo. 
 - [starknet-hardhat-example](https://github.com/Shard-Labs/starknet-hardhat-example) - Ejemplo de uso del plugin Starknet Hardhat.
   Ejemplo de uso del plugin Starknet Hardhat.
 - [starknet-react-example](https://github.com/fracek/starknet-react-example) -
@@ -168,7 +167,7 @@
 
 #### Prácricas
 
-#### Trabajo
+#### Trabajos
 - [Desarrollador de aplicaciones en Shard labs](https://almanac.io/docs/starknet-dapp-developer-shard-labs-8UMOmydaLJX7jzQAZReYJTcC0o4RtE1m).
 - [Desarrollador de código abierto en Open Zeppelin](https://openzeppelin.com/jobs/opening/?gh_jid=4554917003&gh_src=2742d3093us).
 - [Ingenieros de Cairo en Immutable](https://discord.com/channels/793094838509764618/898210860030386178/898330663281905725).
@@ -178,13 +177,12 @@
 ## Librerías
 
 - [get-starknet](https://github.com/starknet-community-libs/get-starknet) - wallet <-> puente dApp.
-- [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript
-  biblioteca
-- [starknet.py](https://github.com/software-mansion/starknet.py) - Biblioteca Python
-- [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Biblioteca Rust
+- [starknet.js](https://github.com/seanjameshan/starknet.js) - Librería Javascript
+- [starknet.py](https://github.com/software-mansion/starknet.py) - Librería Python
+- [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Librería Rust
 - [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - Complemento para integrar Starknet.
   Un plugin para integrar herramientas Starknet en proyectos Hardhat
-- [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - Biblioteca para lenguajes JVM (java, kotlin y otros).
+- [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - librería para lenguajes JVM (java, kotlin y otros).
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   Contratos OpenZeppelin escritos en Cairo.
 - [cairomate](https://github.com/a5f9t4/cairomate) - Legos estructurados y fiables para el desarrollo de Starknet. 
@@ -194,8 +192,8 @@
 ## Herramientas
 
 #### General
-- [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Billetera de extensión del navegador.
-- [argent-x](https://github.com/argentlabs/argent-x) - Monedero de extensión del navegador.
+- [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Wallet de extensión del navegador.
+- [argent-x](https://github.com/argentlabs/argent-x) - Waller de extensión del navegador.
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Núcleo Jupyter
   para Cairo.
 - [fossil](https://github.com/OilerNetwork/fossil) - Verificación de estado L1 con STARKs.
