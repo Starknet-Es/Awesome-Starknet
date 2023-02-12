@@ -17,7 +17,7 @@
   </p>
 
   <p align="center">Una lista increíble de<a href="https://medium.com/starkware/starknet-alpha-is-coming-to-mainnet-b825829eaf32">StarkNet</a> con recursos, librerías, herramientas y mas.</p>
-  <p align="center">Por favor revise <a href="CONTRIBUTING.md">directrices de contribución</a> para obtener información sobre el formato y la redacción de pull requests.</p>
+  <p align="center">Por favor revise <a href="https://github.com/gakonst/awesome-starknet/blob/master/CONTRIBUTING.md">directrices de contribución</a> para obtener información sobre el formato y la redacción de pull requests.</p>
 
 </div>
 
