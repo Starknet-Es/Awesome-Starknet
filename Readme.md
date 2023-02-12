@@ -171,7 +171,7 @@
 #### Trabajo
 - [Desarrollador de aplicaciones en Shard labs](https://almanac.io/docs/starknet-dapp-developer-shard-labs-8UMOmydaLJX7jzQAZReYJTcC0o4RtE1m).
 - [Desarrollador de código abierto en Open Zeppelin](https://openzeppelin.com/jobs/opening/?gh_jid=4554917003&gh_src=2742d3093us).
-- Ingenieros de El Cairo en Immutable](https://discord.com/channels/793094838509764618/898210860030386178/898330663281905725).
+- [Ingenieros de Cairo en Immutable](https://discord.com/channels/793094838509764618/898210860030386178/898330663281905725).
 - [Chainlink integration team](https://discord.com/channels/793094838509764618/898210860030386178/905842249840074783).
 - [Ingeniero de software Blockchain en JellyFi](https://mango-cry-b61.notion.site/Blockchain-software-engineer-9634a0236c454e6ab7679a93478f2f8b).
 
